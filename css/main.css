@@ -1,0 +1,54 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+nav{
+  background-color: #262933;
+  color: #ffffff;
+}
+
+li{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.mountainImage{
+  width: 100%;
+}
+
+
+
+.textContainer{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.cardContainer{
+  background-image: url('../img/BlueBackground.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+}
+
+.card{
+  background-color: transparent;
+  border: none;
+  text-align: center;
+}
+
+.cardImage{
+  width: 50px;
+  display: block;
+  margin: auto;
+}
+
+.footer{
+  background-color: #262933;
+  color: #ffffff;
+  height: 80px;
+}
+
+.vertical-center {
+  display: flex;
+  align-items: center;
+}
